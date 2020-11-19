@@ -11,9 +11,33 @@
 </channel>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]MOVIES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2020[/COLOR][/B]</name>
 <thumbnail>https://ia601402.us.archive.org/0/items/entrar_202010/entrar.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 19/18/17[/COLOR][/B]</name>
+<thumbnail>https://ia601402.us.archive.org/0/items/entrar_202010/entrar.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
+<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
@@ -30,7 +54,7 @@
 
 
 
-
+--------------------------------------------------------------------------
 <layouttype>thumbnail</layouttype>
 
 <channels>
