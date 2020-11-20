@@ -2,7 +2,7 @@
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2020[/COLOR][/B]</name>
-<thumbnail>https://ia601402.us.archive.org/0/items/entrar_202010/entrar.png</thumbnail>
+<thumbnail>https://ia801700.us.archive.org/29/items/icon_20201013/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
@@ -10,15 +10,23 @@
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 19/18/17[/COLOR][/B]</name>
-<thumbnail>https://ia601402.us.archive.org/0/items/entrar_202010/entrar.png</thumbnail>
+<thumbnail>https://ia801707.us.archive.org/28/items/2019_20201013/2019.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
 </channel>
 
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES MARVEL[/COLOR][/B]</name>
+<thumbnail>https://ia601506.us.archive.org/25/items/icon4_202010/icon4.png</thumbnail>
+<externallink>https://pastebin.com/raw/qATfhjie</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>portugalkodi.com</info>
+</channel>
+
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<thumbnail>https://ia801906.us.archive.org/8/items/icon2_202010/icon2.png</thumbnail>
 <externallink>https://pastebin.com/raw/qATfhjie</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
@@ -26,7 +34,7 @@
 
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
+<thumbnail>https://ia803204.us.archive.org/2/items/icon3_202010/icon3.png</thumbnail>
 <externallink>https://pastebin.com/raw/qATfhjie</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
 <info>portugalkodi.com</info>
