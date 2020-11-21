@@ -295,14 +295,6 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]»»[/COLOR][COLOR white]NOME CANAIST[/COLOR][/B]</title>
-<link>M3U8</link>
-<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
-<info>[B][COLOR lime]●[/COLOR] [COLOR white]NOME CANAIS[/COLOR][/B]</info>
-</item>
-
-<item>
 <title>[B][COLOR lime]»»[/COLOR][COLOR white]--Sports--[/COLOR][/B]</title>
 <link>http://mytv.fun:8080/live/detlef083/9ny404edlw/682900.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
@@ -319,11 +311,11 @@
 </item>
 
 <item>
-<title>[B][COLOR lime]»»[/COLOR][COLOR white]BTV 1 FHD [B] PT[/COLOR][/B]</title>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]BTV 1 FHD B PT[/COLOR][/B]</title>
 <link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7534.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
 <fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
-<info>[B][COLOR lime]●[/COLOR] [COLOR white]BTV 1 FHD [B] PT[/COLOR][/B]</info>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]BTV 1 FHD B PT[/COLOR][/B]</info>
 </item>
 
 <item>
@@ -599,6 +591,158 @@
 </item>
 
 <item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]AXN FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7538.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]AXN FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]AXN White FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7536.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]AXN White FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]AXN White FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/667464.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]AXN White FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]AXN Movies FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7537.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]AXN Movies FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]AMC PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7539.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]AMC PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fox Crime FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8810.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Fox Crime FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fox Comedy PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7515.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]NOME CANAIS[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fox Life FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7514.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Fox Life FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fox FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7456.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Fox FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fox HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7516.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Fox HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Syfy HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7454.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Syfy HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Syfy PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7475.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Syfy PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fox Movies FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7513.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Fox Movies FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Top FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13105.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Top FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Top HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13104.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Top HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Emotion FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13103.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Emotion FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Emotion HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13102.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Emotion HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Action FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13101.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Action FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Action HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13100.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Action HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
 <title>[B][COLOR lime]»»[/COLOR][COLOR white]NOME CANAIST[/COLOR][/B]</title>
 <link>M3U8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
@@ -606,3 +750,450 @@
 <info>[B][COLOR lime]●[/COLOR] [COLOR white]NOME CANAIS[/COLOR][/B]</info>
 </item>
 
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Edition FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13099.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Edition FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TvCine Edition HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/13098.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TvCine Edition HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TV Series FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7469.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TV Series FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Hollywood PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7510.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Hollywood PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]NOS Studios HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/658469.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]NOS Studios HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Cine Mundo PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7525.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Cine Mundo PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]ZAP VIVA HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/667814.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]ZAP VIVA HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]--Documentary--[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/682901.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]--Documentary--[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Discovery Channel HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7523.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Discovery Channel HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Discovery Showcase FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7522.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Discovery Showcase FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Investigation Discovery FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/682122.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Investigation Discovery FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Crime Investigation PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12516.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Crime Investigation PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]National Geographic FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7503.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]National Geographic FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Nat Geo Wild FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7504.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Nat Geo Wild FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Travel Channel FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7472.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Travel Channel FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Caza Y Pezca PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8791.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Caza Y Pezca PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]CBS Reality PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7526.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]CBS Reality PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Canal Historia PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7530.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Canal Historia PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Historia PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8789.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Historia PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Odisseia PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12500.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Odisseia PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TLC PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7474.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TLC PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]24 Kitchen FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7542.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]24 Kitchen FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Food Network HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12510.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Food Network HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fine Living Network FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12509.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Fine Living Network FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Dog TV FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12528.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Dog TV FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Blaze PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7540.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Blaze PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]--Entertainment--[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/682905.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]--Entertainment--[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]E! Entertainment PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8790.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]E! Entertainment PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Fashion Box HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12526.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Fashion Box HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Canal Q PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7528.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Canal Q PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TV Record PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8811.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TV Record PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TVI Reality PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7462.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TVI Reality PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]TVI Ficcao PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7461.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]TVI Ficcao PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]SIC K PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7486.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]SIC K PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]MOV FHD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7453.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]MOV FHD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Cacavision PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7531.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Cacavision PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Children[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/682902.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Children[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Baby TV PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7535.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Baby TV PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Nickelodeon PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7502.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Nickelodeon PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Disney Junior PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7520.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Disney Junior PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Disney Channel PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7521.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Disney Channel PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Cartoon Network PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8804.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Cartoon Network PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Canal Panda PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7529.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Canal Panda PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Biggs PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7533.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Biggs PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Sic Kids PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8801.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Sic Kids PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Jim Jam PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7511.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Jim Jam PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]A Bola TV P[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7541.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]A Bola TV P[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Panda Biggs PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8805.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Panda Biggs PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]--Music--[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/682906.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]--Music--[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]MTV PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7505.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]MTV PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]VH1 PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/8785.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]VH1 PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]MCM Pop PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7509.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]MCM Pop PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Afro Music PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12501.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Afro Music PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Trace Urban HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12503.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Trace Urban HD PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]Trace Urban PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12505.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]Trace Urban PT[/COLOR][/B]</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR][COLOR white]iConcerts HD PT[/COLOR][/B]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/12502.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]iConcerts HD PT[/COLOR][/B]</info>
+</item>
