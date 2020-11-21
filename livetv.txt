@@ -1,5 +1,5 @@
 <item>
-<title>1,RTP 1 FHD PT</title>
+<title>[B][COLOR lime]1,[/COLOR][COLOR white][B]RTP 1 FHD PT [/B][/COLOR]</title>
 <link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7459.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
@@ -7,16 +7,24 @@
 </item>
 
 <item>
-<title>Vevo 2</title>
-<link>https://link-do.m3u8|User-Agent=ExoMedia</link>
+<title>[B][COLOR lime]2,[/COLOR][COLOR white][B]RTP 1 PT [/B][/COLOR]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7496.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>
 </item>
 
 <item>
-<title>Vevo 3 - Link .ts</title>
-<link>plugin://plugin.video.f4mTester/?url=LINK DO CANAL COM .ts NO FINAL</link>
+<title>[B][COLOR lime]3,[/COLOR][COLOR white][B]RTP 2 FHD PT [/B][/COLOR]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7458.m3u8</link>
+<thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
+<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
+<info>INFO DOS CANAIS.</info>
+</item>
+
+<item>
+<title>[B][COLOR lime]3,[/COLOR][COLOR white][B]RTP 2 PT [/B][/COLOR]</title>
+<link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7495.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
 <fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
 <info>INFO DOS CANAIS.</info>
