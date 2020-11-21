@@ -1,31 +1,31 @@
 <item>
-<title>[B][COLOR lime]1,[/COLOR][COLOR white][B]RTP 1 FHD PT [/B][/COLOR]</title>
+<title>[B][COLOR lime]1,[/COLOR][COLOR white][B]RTP 1 FHD PT [/COLOR][/B]</title>
 <link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7459.m3u8</link>
 <thumbnail>http://shark2020tv.eu/movie/logos/RTP%201%20HD%20logo.png</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]RTP 1 FHD PT[/COLOR][/B]</info>
 </item>
 
 <item>
 <title>[B][COLOR lime]2,[/COLOR][COLOR white][B]RTP 1 PT [/B][/COLOR]</title>
 <link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7496.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]RTP 1 PT[/COLOR][/B]</info>
 </item>
 
 <item>
 <title>[B][COLOR lime]3,[/COLOR][COLOR white][B]RTP 2 FHD PT [/B][/COLOR]</title>
 <link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7458.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]RTP 2 FHD PT[/COLOR][/B]</info>
 </item>
 
 <item>
 <title>[B][COLOR lime]3,[/COLOR][COLOR white][B]RTP 2 PT [/B][/COLOR]</title>
 <link>http://mytv.fun:8080/live/detlef083/9ny404edlw/7495.m3u8</link>
 <thumbnail>LINK DA IMAGEM QUE FICA NO LADO DO KODI</thumbnail>
-<fanart>LINK DO FANART DO CANAL OU DO ADDON QUE FICA NO FUNDO</fanart>
-<info>INFO DOS CANAIS.</info>
+<fanart>https://ia601407.us.archive.org/23/items/fanart_20201121/fanart.jpg</fanart>
+<info>[B][COLOR lime]●[/COLOR] [COLOR white]RTP 2 PT[/COLOR][/B]</info>
 </item>
