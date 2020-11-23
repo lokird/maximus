@@ -1,16 +1,5 @@
 <layouttype>thumbnail</layouttype>
 
-
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]LIVE TV[/COLOR][/B]</name>
-<thumbnail>https://ia601509.us.archive.org/6/items/tv_20201121/tv.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/livetv.txt</externallink>
-<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
-<info>[COLOR deeppink][B]Filme é um produto audiovisual finalizado, com uma certa duração, para ser exibido no cinema, na televisão ou em algum outro Sistema. [/B][/COLOR]</info>
-</channel>
-</channels>
-
 <channels>
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2020[/COLOR][/B]</name>
@@ -61,12 +50,3 @@
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]CONCERTOS YOUTUBE/VIDEOS CLIPES[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/yutube</externallink>
-<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
-</channels>
