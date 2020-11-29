@@ -1,10 +1,41 @@
-<item>
-<title>[B][COLOR lime]»»[/COLOR][COLOR white] NOME [/COLOR][COLOR lime](RESOLUÇÃO)[/COLOR]LEGENDADO[/B]</title>
-<link>http://shark2020tv.eu/movie/series/No.Mans.Land.2020/No.Mans.Land.2020.S01E01.mp4$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 1</link>
-<link>http://shark2020tv.eu/movie/series/No.Mans.Land.2020/No.Mans.Land.2020.S01E02.mp4$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 2</link>
-<link>http://shark2020tv.eu/movie/series/No.Mans.Land.2020/No.Mans.Land.2020.S01E03.mp4$$lsname=[COLOR lime](RESOLUÇÃO)[/COLOR] - LINK 3</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<info></info>
-<genre></genre>
-</item>
+<layouttype>thumbnail</layouttype>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]»»[/COLOR][COLOR white] No Man's Land (2020) [/COLOR][COLOR lime](RESOLUÇÃO)[/COLOR]LEGENDADO[/B]</name>
+<thumbnail>https://ia801700.us.archive.org/29/items/icon_20201013/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR aqua] INFO [/COLOR] [COLOR red][B]+»» Animação, Aventura, Comédia, Família ««+ ANO (2017).1h 29m.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]»»[/COLOR][COLOR white] NOME [/COLOR][COLOR lime](RESOLUÇÃO)[/COLOR]LEGENDADO[/B]</name>
+<thumbnail>https://ia801700.us.archive.org/29/items/icon_20201013/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR aqua] INFO [/COLOR] [COLOR red][B]+»» Animação, Aventura, Comédia, Família ««+ ANO (2017).1h 29m.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]»»[/COLOR][COLOR white] NOME [/COLOR][COLOR lime](RESOLUÇÃO)[/COLOR]LEGENDADO[/B]</name>
+<thumbnail>https://ia801700.us.archive.org/29/items/icon_20201013/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR aqua] INFO [/COLOR] [COLOR red][B]+»» Animação, Aventura, Comédia, Família ««+ ANO (2017).1h 29m.[/B][/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]»»[/COLOR][COLOR white] NOME [/COLOR][COLOR lime](RESOLUÇÃO)[/COLOR]LEGENDADO[/B]</name>
+<thumbnail>https://ia801700.us.archive.org/29/items/icon_20201013/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR aqua] INFO [/COLOR] [COLOR red][B]+»» Animação, Aventura, Comédia, Família ««+ ANO (2017).1h 29m.[/B][/COLOR]</info>
+</channel>
+</channels>
