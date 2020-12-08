@@ -4,24 +4,12 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]TV[/COLOR][/B]</name>
-<thumbnail>https://ia801700.us.archive.org/29/items/icon_20201013/icon.png</thumbnail>
-<externallink>https://pastebin.com/raw.php?i=FUqYt4aT</externallink>
-<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
-<info>[COLOR deeppink][B]Filme é um produto audiovisual finalizado, com uma certa duração, para ser exibido no cinema, na televisão ou em algum outro Sistema. [/B][/COLOR]</info>
-</channel>
-
-
-
-
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2020[/COLOR][/B]</name>
 <thumbnail>https://ia801700.us.archive.org/29/items/icon_20201013/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
 <info>[COLOR deeppink][B]Filme é um produto audiovisual finalizado, com uma certa duração, para ser exibido no cinema, na televisão ou em algum outro Sistema. [/B][/COLOR]</info>
 </channel>
-
 
 
 <channel>
@@ -33,7 +21,6 @@
 </channel>
 
 
-
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES MARVEL/DC[/COLOR][/B]</name>
 <thumbnail>https://ia601506.us.archive.org/25/items/icon4_202010/icon4.png</thumbnail>
@@ -43,7 +30,6 @@
 </channel>
 
 
-
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
 <thumbnail>https://ia801906.us.archive.org/8/items/icon2_202010/icon2.png</thumbnail>
@@ -51,7 +37,6 @@
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
 <info>[COLOR deeppink][B] Uma série de televisão pode ser ficcional ou documental, possui um número preestabelecido de episódios por temporada. Se a temporada agrada o espectador e traz retorno de audiência para a emissora de TV, é contratada uma nova temporada e são feitas pequenas alterações na trama a fim de melhorar a aceitação e manter o espectador interessado. [/B][/COLOR]</info>
 </channel>
-
 
 
 <channel>
