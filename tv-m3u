@@ -3,9 +3,7 @@
 http://mytv.fun:8080/detlef083/9ny404edlw/7459
 #EXTINF:-1 tvg-logo="http://shark2020tv.eu/movie/logos/RTP%201%20HD%20logo.png" group-title="RTP 1 FHD PT",RTP 1 FHD PT
 http://mytv.fun:8080/detlef083/9ny404edlw/7459
-#EXTINF:-1,RTP 1 FHD PT
-http://mytv.fun:8080/detlef083/9ny404edlw/7459
-#EXTINF:-1,RTP 1 PT
+#EXTINF:-1 tvg-logo="http://shark2020tv.eu/movie/logos/RTP%201%20logo.png" group-title="RTP 1 PT",RTP 1 PT
 http://mytv.fun:8080/detlef083/9ny404edlw/7496
 #EXTINF:-1,RTP 2 FHD PT
 http://mytv.fun:8080/detlef083/9ny404edlw/7458
