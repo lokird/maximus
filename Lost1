@@ -1,8 +1,8 @@
 <item>
-<title>[B][COLOR lime]---»»[/COLOR][COLOR white]1.ª Temporada[/COLOR][COLOR lime]««---[/COLOR][/B]</title>
+<title>[B][COLOR lime]-----»»[/COLOR][COLOR white]1.ª Temporada[/COLOR][COLOR lime]««-----[/COLOR][/B]</title>
 <link>LINK</link>
-<thumbnail>CAPA</thumbnail>
-<fanart>FUMDO</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</fanart>
 <info></info>
 <genre></genre>
 </item>
@@ -287,8 +287,8 @@
 <item>
 <title>[B][COLOR lime]---»»[/COLOR][COLOR white]2.ª Temporada[/COLOR][COLOR lime]««---[/COLOR][/B]</title>
 <link>LINK</link>
-<thumbnail>CAPA</thumbnail>
-<fanart>FUMDO</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</fanart>
 <info></info>
 <genre></genre>
 </item>
