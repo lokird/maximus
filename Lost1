@@ -23,8 +23,8 @@
 <item>
 <title>[B][COLOR lime]»»[/COLOR] [COLOR white] NOME[/COLOR][COLOR lime] (Episódio 2)[/COLOR][/B]</title>
 <link>LINK</link>
-<thumbnail>CAPA</thumbnail>
-<fanart>FUMDO</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</fanart>
 <info>[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR aqua] INFO [/COLOR] [COLOR red][B]+»» Drama, Action & Adventure ««+[/B][/COLOR]</info>
 <genre>Series</genre>
 </item>
@@ -294,3 +294,18 @@
 </item>
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<item>
+<title>[B][COLOR lime]»»[/COLOR] [COLOR white] NOME[/COLOR][COLOR lime] (Episódio 1)[/COLOR][/B]</title>
+<link>LINK</link>
+<thumbnail>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/3KXpCoKC28qeOwflLxGE6RBWPmN.jpg</fanart>
+<info>[COLOR lime][B]Sinopse:[/B][/COLOR] [COLOR aqua] INFO [/COLOR] [COLOR red][B]+»» Drama, Action & Adventure ««+[/B][/COLOR]</info>
+<genre>Series</genre>
+</item>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+
+
