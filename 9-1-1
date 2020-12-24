@@ -1,8 +1,8 @@
 <item>
 <title>[B][COLOR lime]-----»»[/COLOR][COLOR white]1ª Temporada[/COLOR][COLOR lime]««-----[/COLOR][/B]</title>
 <link>LINK</link>
-<thumbnail>CAPA</thumbnail>
-<fanart>FUNDO</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/yheHtZxBE8YC7ridKyjIX4Ma1iR.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
 <info>[B][COLOR lime]1.ª Temporada[/COLOR][/B]</info>
 <genre>Series</genre>
 </item>
@@ -12,8 +12,8 @@
 <item>
 <title>[B][COLOR lime]»»[/COLOR] [COLOR white] NOME[/COLOR][COLOR lime] (Episódio 1)[/COLOR][/B]</title>
 <link>LINK</link>
-<thumbnail>capa</thumbnail>
-<fanart>fundo</fanart>
+<thumbnail>https://image.tmdb.org/t/p/original/9wd83uuN4CK5XmMu0BugHmiukE2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/d8dunoo0lp2bw0R2Uea5yXy1URs.jpg</fanart>
 <info>[B][COLOR lime]Sinopse:[/COLOR] [COLOR aqua] INFO [/COLOR] [/B]</info>
 <genre>Series</genre>
 </item>
