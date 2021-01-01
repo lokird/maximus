@@ -1,15 +1,3 @@
-CHANNELS = [
-     dict(
-          name='[B][COLOR white] As Novas Feiticeiras [/COLOR] [COLOR lime]#2020[/B][/COLOR]',
-          label='Duração 94 minutos',
-          description='Um grupo de quatro jovens amigas ganham poderes místicos mas logo percebem que vão receber mais do que esperavam.',
-          live_stream='http://shark2020tv.eu/movie/flimes2020/The.Craft.Legacy.2020.mp4',
-          logo='https://image.tmdb.org/t/p/original/AoSuMORjmhREK5V3E3ZY0lrS5Kq.jpg',
-          website='IMDb;4,3',
-          preset='201',
-     ),
-
-
 <item>
 <title>[B][COLOR white] As Novas Feiticeiras (2020) [/COLOR] - [COLOR lime](Full HD)[/COLOR] »»LEGENDADO««[/B]</title>
 <link>http://shark2020tv.eu/movie/flimes2020/The.Craft.Legacy.2020.mp4</link>
