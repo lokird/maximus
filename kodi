@@ -11,6 +11,16 @@
 </channel>
 
 
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2020[/COLOR][/B]</name>
+<thumbnail>https://ia601507.us.archive.org/4/items/entrar_202012/entrar.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/lokird/maximus/main/filmes2020</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>[COLOR deeppink][B]Filme é um produto audiovisual finalizado, com uma certa duração, para ser exibido no cinema, na televisão ou em algum outro Sistema. [/B][/COLOR]</info>
+</channel>
+
+
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 20/19/18/17[/COLOR][/B]</name>
 <thumbnail>https://ia601507.us.archive.org/4/items/entrar_202012/entrar.jpg</thumbnail>
