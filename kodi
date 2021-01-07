@@ -1,16 +1,6 @@
 <layouttype>thumbnail</layouttype>
 
 
-<channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] NOME[/COLOR][/B]</name>
-<thumbnail>CAPA</thumbnail>
-<externallink>https://raw.githubusercontent.com/lokird/maximus/main/livetv.txt</externallink>
-<fanart>FUNDO</fanart>
-<info>[COLOR deeppink][B] INFO [/B][/COLOR]</info>
-</channel>
-
-
 
 <channels>
 <channel>
