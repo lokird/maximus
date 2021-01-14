@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="SE ESTIVER COM TRAVAS ATIVE UMA VPN OU MUDE SEU DNS FAÇA O TESTE!" tvg-logo="https://e7.pngegg.com/pngimages/406/997/png-clipart-siberian-husky-black-wolf-wall-decal-others-white-mammal.png" group-title="SE ESTIVER COM TRAVAS ATIVE UMA VPN OU MUDE SEU DNS FAÇA O TESTE!",SE ESTIVER COM TRAVAS ATIVE UMA VPN OU MUDE SEU DNS FAÇA O TESTE!
-http://192.95.30.205:8080
-#EXTINF:-1 tvg-id="" tvg-name="USE APENAS NO KODI E COM O PLUGIN F4MTESTER INSTALADO EM OUTROS PLAYERS NÃO VAI RODAR!!" tvg-logo="https://e7.pngegg.com/pngimages/406/997/png-clipart-siberian-husky-black-wolf-wall-decal-others-white-mammal.png" group-title="USE APENAS NO KODI E COM O PLUGIN F4MTESTER INSTALADO EM OUTROS PLAYERS NÃO VAI RODAR!!",USE APENAS NO KODI E COM O PLUGIN F4MTESTER INSTALADO EM OUTROS PLAYERS NÃO VAI RODAR!!
-http://192.95.30.205:808055645
- 
 
+ 
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E
 http://gamexit.in:8080/live/jKSUE3h6NlqGmA/PTKa1kZIbGp6/2.m3u8|user-agent=GoPlayer
 #EXTINF:-1 tvg-id="AE" tvg-name="A&E SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E¹
