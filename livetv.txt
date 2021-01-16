@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/0021_ae.png" group-title="CANAIS FILMES E SERIES",A&E
+http://mytv.fun:8080/live/live:detlef083/9ny404edlw/7459.m3u8|user-agent=GoPlayer
 #EXTINF:-1,RTP 1 FHD PT
 http://mytv.fun:8080/live/live:detlef083/9ny404edlw/7459.m3u8|user-agent=GoPlayer
 #EXTINF:-1,RTP 1 PT
