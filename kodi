@@ -3,6 +3,18 @@
 
 <channels>
 <channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] BERVEMENTE ESTREIAS TRAILERS[/COLOR][/B]</name>
+<thumbnail>CAPA</thumbnail>
+<externallink>https://raw.githubusercontent.com/flechanegra/addon/main/kp-flechapt</externallink>
+<fanart>FUNDO</fanart>
+<info>[COLOR deeppink][B] INFO [/B][/COLOR]</info>
+</channel>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+<channels>
+<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]LAMÇAMENTOS[/COLOR][/B]</name>
 <thumbnail>https://ia601407.us.archive.org/18/items/lanc-amentos_202101/LAN%C3%87AMENTOS.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lokird/maximus/main/LAN%C3%87AMENTOS</externallink>
