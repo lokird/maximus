@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="--------------@by_Maximus--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_flecha_negra--------",--------------@by_flecha_negra--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
+#EXTINF:-1 tvg-id="" tvg-name="--------------@by_Maximus--------LISTA GRATIS-----------" tvg-logo="https://i.imgur.com/DZfGQwI.jpg" group-title="-------@by_Maximus--------",--------------@by_Maximus--------LISTA GRATIS-----------LiSTA GRÁTIS SE FICAR OFFLINE ESPERAR ATÉ FICAR ON UM ABRAÇO
 
 #EXTINF:-1 tvg-id="A&E (HD)" tvg-name="A&E (HD)" tvg-logo="https://app.neoweb.tv/assets/img/tv2/aee.png" group-title="FILMES E SÉRIES",A&E (HD)
 http://br4.2tv.me:80/live/silvio01/silvio01/2.m3u8|user-agent=GoPlayer
