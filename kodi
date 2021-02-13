@@ -3,18 +3,6 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white] TV [/COLOR][/B]</name>
-<thumbnail>CAPA</thumbnail>
-<externallink>https://raw.githubusercontent.com/flechanegra/addon/main/addonk-pt/kp-pt-dtb</externallink>
-<fanart>FUNDO</fanart>
-<info>[COLOR deeppink][B] INFO [/B][/COLOR]</info>
-</channel>
-</channels>
-
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
-<channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2021[/COLOR][/B]</name>
 <thumbnail>https://ia801408.us.archive.org/23/items/icon1100_202101/icon1100.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lokird/maximus/main/2021</externallink>
