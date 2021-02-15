@@ -1,2 +1,2 @@
 # maximus
-#Repositorio Oficial maximus, todos os direitos reservados!
+#addom Oficial maximus, todos os direitos reservados!
