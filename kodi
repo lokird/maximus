@@ -3,7 +3,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2021[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES 2021[/COLOR][/B]</name>
 <thumbnail>https://ia801408.us.archive.org/23/items/icon1100_202101/icon1100.jpg</thumbnail>
 <externallink>http://shark2020tv.eu/addonmaximus/FIL-2021.txt</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
@@ -25,7 +25,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 2020[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES 2020[/COLOR][/B]</name>
 <thumbnail>https://ia801408.us.archive.org/23/items/icon1100_202101/icon1100.jpg</thumbnail>
 <externallink>http://shark2020tv.eu/addonmaximus/FIL-2020.txt</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
@@ -48,7 +48,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES 19/18/17[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES 19/18/17[/COLOR][/B]</name>
 <thumbnail>https://ia801408.us.archive.org/23/items/icon1100_202101/icon1100.jpg</thumbnail>
 <externallink>http://shark2020tv.eu/addonmaximus/FIL-ANTIGOS.txt</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
@@ -71,7 +71,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]FILMES MARVEL/DC[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES MARVEL/DC[/COLOR][/B]</name>
 <thumbnail>https://ia601408.us.archive.org/2/items/icon4100_202101/icon4100.jpg</thumbnail>
 <externallink>http://shark2020tv.eu/addonmaximus/FIL-MARVEL-DC.txt</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
@@ -91,7 +91,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]SERIES[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] SERIES[/COLOR][/B]</name>
 <thumbnail>https://ia601404.us.archive.org/35/items/icon1200_202101/icon1200.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/lokird/maximus/main/Series</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
@@ -107,7 +107,7 @@
 
 <channels>
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] ANIMAÇÃO[/COLOR][/B]</name>
 <thumbnail>https://ia801402.us.archive.org/19/items/icon1300_202101/icon1300.jpg</thumbnail>
 <externallink>http://shark2020tv.eu/addonmaximus/ANIMACAO.txt</externallink>
 <fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
@@ -122,6 +122,25 @@
 </channel>
 </channels>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
---------------------------------------------------------
+<channels>
+<channel>
+<name>[B][COLOR lime]●[/COLOR] [COLOR white] FILMES BOLLYWOOD[/COLOR][/B]</name>
+<thumbnail>https://ia801408.us.archive.org/23/items/icon1100_202101/icon1100.jpg</thumbnail>
+<externallink>http://shark2020tv.eu/addonmaximus/HINDU.txt</externallink>
+<fanart>https://ia902907.us.archive.org/10/items/entrada_20200317/fanart.jpg</fanart>
+<info>[B][COLOR lime]■ ADICONADOS REÇENTEMENTE[/COLOR][/B]
+
+
+[B][COLOR orange]■ Asoka (2001)[/COLOR][/B]
+[B][COLOR orange]■ Bajrangi Bhaijaan (2015)[/COLOR][/B]
+[B][COLOR orange]■ Sanju (2018)[/COLOR][/B]
+
+
+</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
